@@ -1,2 +1,2 @@
 # .github
-Welcome!
+Welcome to the CEDS Collaborative Exchange Community!
