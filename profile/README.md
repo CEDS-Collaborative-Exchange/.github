@@ -1,8 +1,2 @@
 ##  Welcome to the CEDS Collaborative Exchange
-
-Purpose
-Contributing
-Documentation
-
-
-Here is an [Example Document](https://github.com/CEDS-Collaborative-Exchange/.github/raw/main/doc/Example%20Document.docx)
+The purpose of this site is to provide a location where contributors who build open source resources that use the Common Education Data Standards (CEDS) data models can distribute and maintain the resources in a collaborative way.
